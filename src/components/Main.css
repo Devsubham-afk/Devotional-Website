@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300');
+.container-one{
+    display: flex;
+}
+.left-box{
+    height: 600px;
+    width: 400px;
+    background-color: black;
+    opacity: 0.6;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+h3{
+    /* font-size: x-large; */
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    font-size: larger;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+h3:hover{
+    color: red;
+}
+
+.para{
+    color: white;
+    padding: 20px 20px;
+    font-family: "Oswald", sans-serif;  
+}
+
+
+a{
+    text-decoration: none;
+    color: red;
+    cursor: pointer;
+}
+
+.Middle-box{
+    height: 600px;
+    width: 800px;
+    background-color: black;
+    opacity: 0.6;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    /* margin-left: 50%; */
+}
+
+.right-box{
+    height: 600px;
+    width: 400px;
+    background-color: black;
+    opacity: 0.6;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+ul,li{
+    line-height: 35px;
+    font-family: "Caveat", cursive;
+    font-size: larger;
+}
+li:hover{
+    color: yellow;
+}
+
+audio{
+    margin-top: 90px;
+    width: 6%;
+    opacity: 0.1;
+    /* width: 7%; */
+}
